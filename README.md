@@ -15,6 +15,8 @@ A development workspace prepared for Django learning and experimentation.
 
 ## Getting started
 
+Git is required for the clone command below.
+
 Clone the workspace to inspect or develop it:
 
 ```bash
